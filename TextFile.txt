@@ -1,4 +1,5 @@
  STATS
 Crazyness: 1000
 DAmn: 5
+CONFLICT: DANG
 WOw: 9
