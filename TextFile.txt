@@ -1,0 +1,4 @@
+ STATS
+Crazyness: 1000
+DAmn: 5
+WOw: 9
