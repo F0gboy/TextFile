@@ -1,0 +1,5 @@
+Stats
+
+int health = 100;
+int energy = 20;
+string namePlayer = "Oscar";
